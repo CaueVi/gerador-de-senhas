@@ -28,7 +28,7 @@ JavaScript (Vanilla JS) – Lógica de geração das senhas e interatividade
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/CaueVi/gerador-de-senhas.git
 
 
 Acesse a pasta do projeto:
